@@ -7,15 +7,15 @@
 // on the console should look like this:
 /*
 Hello Yaakov
-Good Bye John
-Good Bye Jen
-Good Bye Jason
-Hello Paul
-Hello Frank
-Hello Larry
-Hello Paula
-Hello Laura
-Good Bye Jim*/
+Good Bye Janic
+Good Bye Jenny
+
+Hello tim
+Hello kate
+Hello mike
+Hello rose
+
+Good Bye janica*/
 
 /*Hello speaker function*/
 const helloSpeaker = {

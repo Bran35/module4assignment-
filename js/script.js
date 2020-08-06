@@ -7,7 +7,7 @@
 // on the console should look like this:
 /*
 Hello Yay
-Good Bye Janic
+Good Bye Janice
 Good Bye Jenny
 
 Hello tim
@@ -15,7 +15,7 @@ Hello kate
 Hello mike
 Hello rose
 
-Good Bye janica*/
+Good Bye Janica*/
 
 /*Hello speaker function*/
 const helloSpeaker = {
@@ -44,7 +44,7 @@ const byeSpeaker = {
 //3
 //This choose the names
 (function () {
-	var names = ['Yay', 'Janic', 'Jenny', 'tim', 'kate', 'mike', 'rose',   'janica'];
+	var names = ['Yay', 'Janice', 'Jenny', 'tim', 'kate', 'mike', 'rose',   'Janica'];
 	for (var i = 0; i < names.length; i++) {
 		var name = names[i];
 		var firstLetter = name.charAt(0).toLowerCase();

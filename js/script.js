@@ -6,7 +6,7 @@
 // or "j", otherwise, the program should say "Good Bye". So, the final output
 // on the console should look like this:
 /*
-Hello Yaakov
+Hello Yay
 Good Bye Janic
 Good Bye Jenny
 
@@ -44,7 +44,7 @@ const byeSpeaker = {
 //3
 //This choose the names
 (function () {
-	var names = ['Yaakov', 'John', 'Jen', 'Jason', 'Paul', 'Frank', 'Larry', 'Paula', 'Laura', 'Jim'];
+	var names = ['Yay', 'Janic', 'Jenny', 'tim', 'kate', 'mike', 'rose',   'janica'];
 	for (var i = 0; i < names.length; i++) {
 		var name = names[i];
 		var firstLetter = name.charAt(0).toLowerCase();
